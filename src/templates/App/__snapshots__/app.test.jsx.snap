@@ -1,8 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should test 1`] = `
+exports[`should render heading 1`] = `
 .c0 {
-  background: red;
+  background: #191F45;
 }
 
 <h1
